@@ -1,16 +1,28 @@
+![image](https://user-images.githubusercontent.com/981370/109423645-3d1ade80-79d8-11eb-8484-11e6202a6f3c.png)
+
 ### Hi there 👋
+I'm a database enginner with a passion for automation, proper football and fitness. I enjoy contributing to open source software and I'm a maintainer for [dbatools](https://github.com/sqlcollaborative/dbatools/).  I also blog about PowerShell, SQL Server and a few random topics at [JessPomfret.com](http://jesspomfret.com/).
 
-<!--
-**jpomfret/jpomfret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpomfret&show_icons=true&theme=vue-dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpomfret&layout=compact" />
+</a>
+</div>
 
-Here are some ideas to get you started:
+<p></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p></p>
+
+<!-- Actual text -->
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+
+<!-- Icons -->
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+[1]: https://twitter.com/jpomfret
+[2]: https://www.linkedin.com/in/jpomfret/
