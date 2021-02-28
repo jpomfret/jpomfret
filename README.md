@@ -17,7 +17,9 @@ I'm a database enginner with a passion for automation, proper football and fitne
 <p></p>
 
 <!-- Actual text -->
+<div align="center">
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+</div>
 
 <!-- Icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
