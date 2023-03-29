@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/981370/109423645-3d1ade80-79d8-11eb-8484-11e6202a6f3c.png)
 
 ### Hi there 👋
-I'm a data platform architect with a passion for automation, proper football and fitness. I enjoy contributing to open source software and I'm a maintainer for [dbatools](https://github.com/sqlcollaborative/dbatools/).  I also blog about PowerShell, SQL Server and a few random topics at [JessPomfret.com](http://jesspomfret.com/).
+I'm a data platform engineer with a passion for automation, proper football and fitness. I enjoy contributing to open source software and I'm a maintainer for [dbatools](https://github.com/sqlcollaborative/dbatools/).  I also blog about PowerShell, SQL Server and a few random topics at [JessPomfret.com](http://jesspomfret.com/).
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
