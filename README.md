@@ -15,7 +15,7 @@ I'm a data platform engineer with a passion for automation, proper football and 
 <p></p>
 
 <!-- Actual text -->
-You can find me on [LinkedIn][2].
+You can find me on [LinkedIn][1].
 
 <!-- Links to your social media accounts -->
 [1]: https://www.linkedin.com/in/jpomfret/
